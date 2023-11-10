@@ -19,5 +19,3 @@
 - **Others:** ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-000000?logo=json&logoColor=white) 
 
 
-
-https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
